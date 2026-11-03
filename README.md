@@ -1,7 +1,7 @@
 # Task 1: Sorting Algorithms
 
 *Module:* KH5002CMD Advanced Algorithms
-*Language:* C++ (C++17)
+*Language:* C++
 
 ## Description
 This project implements three comparison-based sorting algorithms in C++: Bubble Sort, Selection Sort and Insertion Sort. Each function sorts an integer array in place and increments a counter once for every comparison between two elements, so the running behaviour of each algorithm can be measured on different inputs.
